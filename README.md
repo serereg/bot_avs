@@ -6,5 +6,7 @@
 
 ### how to start:
 - git clone
+- install python3.12
 - poetry env use 3.12
+- cd to bot_avs
 - poetry install
